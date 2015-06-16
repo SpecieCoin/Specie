@@ -1,0 +1,11 @@
+[Protocol]
+exec=Specie-qt '%u'
+protocol=Specie
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

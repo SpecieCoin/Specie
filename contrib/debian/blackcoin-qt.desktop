@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Specie
+Comment=Specie P2P Cryptocurrency
+Comment[fr]=Specie, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Specie, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Specie-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Specie;
+Categories=Office;
